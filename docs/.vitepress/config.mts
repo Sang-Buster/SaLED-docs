@@ -33,6 +33,11 @@ export default defineConfig({
       provider: "local",
     },
 
+    editLink: {
+      pattern: "https://github.com/Sang-Buster/SaLED-docs/edit/main/docs/:path",
+      text: "Edit this page on GitHub",
+    },
+
     sidebar: [
       {
         text: "Introduction",
