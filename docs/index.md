@@ -7,7 +7,7 @@ hero:
   text: "A powerful AI tool for ATC analysis"
   tagline: Speech and Language Editor (SaLED)
   image:
-    src: /logo.png
+    src: /logo_w_trans.png
     alt: SaLED Logo
   actions:
     - theme: brand
